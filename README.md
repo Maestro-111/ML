@@ -1,3 +1,2 @@
 # some_ML
-ML python scripts
-Some ML scripts
+Notebook analysis and modeling as well as some py files
